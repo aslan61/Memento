@@ -1,0 +1,14 @@
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.csproj.AssemblyReference.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfoInputs.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfo.cs
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.csproj.CoreCompileInputs.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Memento\bin\Debug\netcoreapp3.1\Memento.exe
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Memento\bin\Debug\netcoreapp3.1\Memento.deps.json
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Memento\bin\Debug\netcoreapp3.1\Memento.runtimeconfig.json
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Memento\bin\Debug\netcoreapp3.1\Memento.runtimeconfig.dev.json
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Memento\bin\Debug\netcoreapp3.1\Memento.dll
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Memento\bin\Debug\netcoreapp3.1\Memento.pdb
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.dll
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.pdb
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.genruntimeconfig.cache
